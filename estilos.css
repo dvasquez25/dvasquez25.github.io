@@ -13,3 +13,19 @@ form{
 #contacto{
     text-align: center;
 }
+#banner{
+    text-align: center;
+}
+#contenido{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Arial Narrow Bold', sans-serif 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+#test{
+    font-weight: normal;
+    text-align: justify;
+    margin-right: 20px;
+    margin-left: 20px;
+}
