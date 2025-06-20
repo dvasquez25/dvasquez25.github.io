@@ -1,0 +1,15 @@
+body{
+    font-family: 'Arial Narrow Bold', sans-serif 'Times New Roman', Times, serif; margin: 1%;
+}
+footer{
+    color: black;
+}
+form{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+}
+#contacto{
+    text-align: center;
+}
